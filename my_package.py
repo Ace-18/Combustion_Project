@@ -1,6 +1,7 @@
-from sympy import Eq , solve , symbols , Function, exp, solveset
+from sympy import Eq , solve , symbols , Function, exp
+import numpy as np
 import pandas as pd
-
+import matplotlib.pyplot as plt
 
 #defining functions to be used 
 #

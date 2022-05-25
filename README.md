@@ -12,5 +12,5 @@ for butane–air mixture at 1 atm pressure, with initial temperature of __298.15
 
 #### The following files will be provided:
 - [x] __my_package.py__: contains defined functions, imported required modules, and gases properties as a dataframe 
-- [ ] __Combustion Project__: uses functions and data from *my_package.py* to calculate the adiabatic flame temperature and the products' composition through iterations
+- [x] __Combustion Project__: uses functions and data from *my_package.py* to calculate the adiabatic flame temperature and the products' composition through iterations
 - [ ] __Report__: contain assignment overview and details steps taken to reach the solution
