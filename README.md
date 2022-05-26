@@ -7,7 +7,7 @@ This repository contains the term assignment for Fundamentals of Combustion and 
 
 for butane–air mixture at 1 atm pressure, with initial temperature of __298.15 K__ and __φ = 0.9__
 
-#### Φ C<sub>4</sub>H<sub>10</sub> + 6.5 ( O<sub>2</sub> + 3.76 N<sub>2</sub>) → a CO<sub>2</sub> + b CO + d <sub>H</sub>2O + e H<sub>2</sub> + f O<sub>2</sub> + g N<sub>2</sub>
+#### φ C<sub>4</sub>H<sub>10</sub> + 6.5 ( O<sub>2</sub> + 3.76 N<sub>2</sub>) → a CO<sub>2</sub> + b CO + d H<sub>2</sub>O + e H<sub>2</sub> + f O<sub>2</sub> + g N<sub>2</sub>
 
 
 #### The following files will be provided:
